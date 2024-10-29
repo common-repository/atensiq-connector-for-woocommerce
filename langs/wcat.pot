@@ -1,0 +1,193 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Atensiq Connector for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-05 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-4.9.10"
+
+#: atensiq-wc-connector.php:23
+msgid ""
+"Atensiq Restaurant menu & Connector for WooCommerce requires WooCommerce to "
+"work correctly!"
+msgstr ""
+
+#: src/settings.php:12
+msgid "API"
+msgstr ""
+
+#: src/settings.php:16
+msgid "Sbn ID"
+msgstr ""
+
+#: src/settings.php:20
+msgid "Secret"
+msgstr ""
+
+#: src/settings.php:25
+msgid "Online orders"
+msgstr ""
+
+#: src/settings.php:26
+msgid "Section description"
+msgstr ""
+
+#: src/settings.php:30
+msgid "Online orders not available message"
+msgstr ""
+
+#: src/settings.php:31
+msgid "Default: Online orders are not available at this time."
+msgstr ""
+
+#: src/settings.php:36
+msgid "Local orders"
+msgstr ""
+
+#: src/settings.php:40
+msgid "Enable local orders"
+msgstr ""
+
+#: src/settings.php:44
+msgid "Local order received message"
+msgstr ""
+
+#: src/settings.php:45
+msgid "Default: Thank you! Your order has been received."
+msgstr ""
+
+#: src/settings.php:50
+msgid "Product list"
+msgstr ""
+
+#: src/settings.php:54
+msgid "Show product images"
+msgstr ""
+
+#: src/settings.php:79
+#, php-format
+msgid ""
+"Please, set Atensiq API credentials in <a href=\"%s\">WooCommerce -> "
+"Atensiq</a>"
+msgstr ""
+
+#: src/settings.php:89
+msgid "This plugin connects WooCommerce cart to the Atensiq panel."
+msgstr ""
+
+#: src/settings.php:90
+#, php-format
+msgid "See how Atensiq works %s."
+msgstr ""
+
+#: src/settings.php:90 src/settings.php:102
+msgid "https://atensiq.com/subscriptions/"
+msgstr ""
+
+#: src/settings.php:90 src/settings.php:102
+msgid "here"
+msgstr ""
+
+#: src/settings.php:102
+#, php-format
+msgid "You will need a free subscription %s to get your API credentials."
+msgstr ""
+
+#: src/settings.php:114
+msgid "Online orders can be anabled from the Atensiq panel."
+msgstr ""
+
+#: src/settings.php:115
+msgid "Make sure to enable online orders each time you log in to the panel."
+msgstr ""
+
+#: src/settings.php:127
+msgid ""
+"Local orders allow customers at your restaurant to place orders directly "
+"without checkout step involved."
+msgstr ""
+
+#: src/settings.php:128
+msgid ""
+"Make sure to enter your menu page url in Atensiq panel - Settings - Link to "
+"your restaurant menu."
+msgstr ""
+
+#: src/settings.php:139
+msgid "Use this Quickcart shortcode to list your products"
+msgstr ""
+
+#: src/settings.php:145
+msgid "Options"
+msgstr ""
+
+#: src/settings.php:147
+msgid "Product category slugs. Separate multiple values by comma."
+msgstr ""
+
+#. Author of the plugin
+#: src/classes/Settings.php:16
+msgid "Atensiq"
+msgstr ""
+
+#. Name of the plugin
+#: src/classes/Settings.php:17
+msgid "Atensiq Restaurant menu & Connector for WooCommerce"
+msgstr ""
+
+#: src/classes/Settings.php:18
+msgid "Update"
+msgstr ""
+
+#: src/classes/View/Quickcart.php:187
+msgid "Add"
+msgstr ""
+
+#: src/classes/View/Quickcart.php:207
+#, php-format
+msgid "%d items in cart"
+msgstr ""
+
+#: src/classes/View/Quickcart.php:209
+#, php-format
+msgid "%d item in cart"
+msgstr ""
+
+#: src/classes/Actions/Api.php:51
+msgid "Local orders not available."
+msgstr ""
+
+#: src/classes/Actions/Api.php:60 src/classes/Actions/Api.php:84
+msgid "Failed to place order."
+msgstr ""
+
+#: src/classes/Actions/Api.php:79
+msgid "Thanky you! Your order has been received."
+msgstr ""
+
+#: src/classes/Actions/Api.php:123
+msgid "Online orders are not available at this time."
+msgstr ""
+
+#: src/classes/View/Actions/Quickcart.php:28
+msgid "Order"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Instant order notifications from WooCommerce in your restaurant´s Atensiq "
+"panel. See how Atensiq works on https://atensiq.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://atensiq.com"
+msgstr ""

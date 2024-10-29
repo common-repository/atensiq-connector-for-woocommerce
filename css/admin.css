@@ -1,0 +1,20 @@
+
+/*
+ * SETTINGS
+ * ======================================== */
+
+.woocommerce_page_wcat_page h1 {
+    margin-bottom: 1rem;
+}
+
+.atq-sbn-info {
+    border-left: 3px solid #ffc33a;
+    background-color: #e4e4e4;
+    padding: 0.5rem 1rem;
+}
+
+.atq-qcart-info {
+    border-left: 3px solid #ffc33a;
+    background-color: #ffed99;
+    padding: 0.5rem 1rem;
+}
